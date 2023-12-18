@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAccesModifiers", "CAccesModifiers.csproj", "{B825D1D2-A111-42EB-95C6-13B358EBF950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B825D1D2-A111-42EB-95C6-13B358EBF950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B825D1D2-A111-42EB-95C6-13B358EBF950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B825D1D2-A111-42EB-95C6-13B358EBF950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B825D1D2-A111-42EB-95C6-13B358EBF950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079E9199-EDFD-4FAF-8BA7-E16EA8E84911}
+	EndGlobalSection
+EndGlobal
